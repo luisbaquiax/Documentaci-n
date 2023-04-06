@@ -8,13 +8,13 @@
 * Agregamos el icono al escritorio
    * sudo nano /usr/share/applications/netbeans12.2.desktop
 *
-[Desktop Entry]
-Name=Netbeans17
-Comment=Netbeans IDE
-Exec=/opt/netbeans17/bin/netbeans
-Icon=/opt/netbeans17/nb/netbeans.png
-Terminal=false
-Type=Application
-Categories=Development,IDE;
-StartupNotify=false
+[Desktop Entry]<br>
+Name=Netbeans17<br>
+Comment=Netbeans IDE<br>
+Exec=/opt/netbeans17/bin/netbeans<br>
+Icon=/opt/netbeans17/nb/netbeans.png<br>
+Terminal=false<br>
+Type=Application<br>
+Categories=Development,IDE;<br>
+StartupNotify=false<br>
 
