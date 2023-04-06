@@ -5,8 +5,8 @@
    nano ~/.bashrc
 * <br>
    source ~/.bashrc
-* Agregamos el icono al escritorio<br>
-   sudo nano /usr/share/applications/netbeans12.2.desktop<br><br>
+* Agregamos el icono al escritorio: 
+   sudo nano /usr/share/applications/netbeans12.2.desktop<br>
  [Desktop Entry]<br>
  Name=Netbeans17<br>
  Comment=Netbeans IDE<br>
