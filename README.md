@@ -1,4 +1,6 @@
 # Instalación-de-netbeans
+* $ sudo apt update
+* $ sudo apt install default-jdk
 * Movemos la carpeta netbeans a la carpeta opt<br>
    sudo mv netbeans/ /opt/
 * <br>
