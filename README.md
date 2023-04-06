@@ -2,9 +2,9 @@
 * Movemos la carpeta netbeans a la carpeta opt
    * sudo mv netbeans/ /opt/
 * <br>
-   * nano ~/.bashrc
+   nano ~/.bashrc
 * <br>
-   * source ~/.bashrc
+   source ~/.bashrc
 * Agregamos el icono al escritorio
    * sudo nano /usr/share/applications/netbeans12.2.desktop<br>
  [Desktop Entry]<br>
