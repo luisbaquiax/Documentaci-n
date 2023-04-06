@@ -1,6 +1,6 @@
 # Instalación-de-netbeans
 * Movemos la carpeta netbeans a la carpeta opt
-   * sudo mv netbeans/ /opt/
+   sudo mv netbeans/ /opt/
 * <br>
    nano ~/.bashrc
 * <br>
