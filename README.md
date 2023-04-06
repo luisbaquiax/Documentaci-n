@@ -17,4 +17,17 @@
  Terminal=false<br>
  Type=Application<br>
  Categories=Development,IDE;<br>
- StartupNotify=false<br>
+ StartupNotify=false<br><br>
+ 
+   [Desktop Entry]<br>
+   Name=Netbeans12.2 IDE<br>
+   Comment=Netbeans12.2 IDE<br>
+   Type=Application<br>
+   Encoding=UTF-8<br>
+   Exec=/opt/netbeans12.2/bin/netbeans<br>
+   Icon=/opt/netbeans12.2/nb/netbeans.png<br>
+   Categories=GNOME;Application;Development;<br>
+   Terminal=false<br>
+   StartupNotify=true<br>
+
+
