@@ -29,5 +29,8 @@
    Categories=GNOME;Application;Development;<br>
    Terminal=false<br>
    StartupNotify=true<br>
+   
+   # instalacion de jdk:
+   https://phoenixnap.com/kb/how-to-install-java-ubuntu
 
 
