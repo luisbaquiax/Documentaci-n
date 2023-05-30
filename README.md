@@ -34,6 +34,8 @@
    https://phoenixnap.com/kb/how-to-install-java-ubuntu
    # Documentación JS
    https://developer.mozilla.org/en-US/docs/Web/JavaScript
-# Trabajando rutas
-https://es.stackoverflow.com/questions/203767/como-guardar-en-el-escritorio
+   # Trabajando rutas
+   https://es.stackoverflow.com/questions/203767/como-guardar-en-el-escritorio
+   # sweet en angular
+   https://www.thecodehubs.com/how-to-use-sweetalert-in-angular/
 
