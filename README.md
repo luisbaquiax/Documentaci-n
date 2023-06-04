@@ -40,3 +40,5 @@
    https://www.thecodehubs.com/how-to-use-sweetalert-in-angular/
    # sweet alert whit java jsp 
    https://www.onlyxcodes.com/2019/03/sweetalert2-delete-mysql-row-using-jsp.html
+   #servlet y ajax 
+   https://www.arquitecturajava.com/servlet-json-y-el-manejo-de-ajax/
