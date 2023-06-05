@@ -42,3 +42,6 @@
    https://www.onlyxcodes.com/2019/03/sweetalert2-delete-mysql-row-using-jsp.html
    #servlet y ajax 
    https://www.arquitecturajava.com/servlet-json-y-el-manejo-de-ajax/
+   # api restful in java, netbeans
+   https://oracle-max.com/creando-un-api-rest-con-java-y-netbeans-que-devuelva-un-json-en-su-request/
+   
