@@ -46,4 +46,11 @@
    https://oracle-max.com/creando-un-api-rest-con-java-y-netbeans-que-devuelva-un-json-en-su-request/
    # learning typescript
    https://www.typescripttutorial.net/
+   # extesión para ts
+   Wilson-Godoi.wg-getters-and-setters
+   https://marketplace.visualstudio.com/items?itemName=Wilson-Godoi.wg-getters-and-setters
+  
+   generate constructor in ts 
+   https://marketplace.visualstudio.com/items?itemName=toanchivu.tcv-typescript-constructor-generator
+  
    
